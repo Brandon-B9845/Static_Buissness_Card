@@ -1,3 +1,5 @@
+//this is the footer with all social media links in it.
+
 export default function Footer(){
     return(
         <div className="footer-container center">
